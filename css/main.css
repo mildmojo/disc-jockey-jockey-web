@@ -70,7 +70,7 @@ textarea {
 body {
     font-family: Varela, Helvetica, Helvetica Neue, Arial;
     color: #E5E5E5;
-    /*background-color: #324141;*/
+    background-image: url("../img/djj_backdrop.png");
     background-color: #122121;
 }
 
