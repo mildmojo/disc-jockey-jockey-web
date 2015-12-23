@@ -144,7 +144,7 @@ nav a:hover {
     margin-top: 10px;
     margin-bottom: 10px;
     font-weight: normal;
-    font-size: 3em;
+    font-size: 4em;
     font-family: Francois One;
 }
 
@@ -266,7 +266,7 @@ nav a:hover {
    ============ */
 
     .main article h1 {
-        font-size: 5em;
+        font-size: 7em;
     }
 
     .main article {
