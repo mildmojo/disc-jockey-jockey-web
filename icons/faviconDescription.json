@@ -1,0 +1,37 @@
+{
+	"masterPicture": "press/images/icon.png",
+	"iconsPath": "/icons",
+	"design": {
+		"ios": {
+			"pictureAspect": "noChange",
+			"appName": "DJJ Website"
+		},
+		"desktopBrowser": {},
+		"windows": {
+			"pictureAspect": "noChange",
+			"backgroundColor": "#da532c",
+			"onConflict": "override",
+			"appName": "DJJ Website"
+		},
+		"androidChrome": {
+			"pictureAspect": "shadow",
+			"themeColor": "#ffffff",
+			"manifest": {
+				"name": "DJJ Website",
+				"display": "browser",
+				"orientation": "notSet",
+				"onConflict": "override",
+				"declared": true
+			}
+		},
+		"safariPinnedTab": {
+			"pictureAspect": "blackAndWhite",
+			"threshold": 90,
+			"themeColor": "#5bbad5"
+		}
+	},
+	"settings": {
+		"scalingAlgorithm": "Lanczos",
+		"errorOnImageTooSmall": false
+	}
+}
